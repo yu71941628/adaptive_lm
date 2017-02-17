@@ -37,8 +37,8 @@ if __name__ == "__main__":
         ori_path = './ptb'
 
         for i in range(5,101,5):
-                os.mkdir(ori_path + '_' + str(i) + '/preprocess')
-                os.mkdir (ori_path + '_' + str(i) + '/output')
+#                os.mkdir(ori_path + '_' + str(i) + '/preprocess')
+#                os.mkdir (ori_path + '_' + str(i) + '/output')
 
 #                in_train_file = ori_path + '/train.txt'
 #                out_train_file = ori_path + '_' + str(i) + '/train.txt'
